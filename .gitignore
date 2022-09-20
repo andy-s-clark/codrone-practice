@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+venv/
+
+PairInfo
+
